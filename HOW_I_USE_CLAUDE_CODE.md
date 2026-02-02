@@ -141,6 +141,12 @@ This document is a living file. Every mistake teaches. Every correction updates 
 
 ## File Templates
 
+### First-Time Setup
+
+```bash
+rm ~/.claude/CLAUDE.md && ln -s ~/Code/claude-config/HOW_I_USE_CLAUDE_CODE.md ~/.claude/CLAUDE.md
+```
+
 ### Auto-Setup Rule
 
 When starting work on any project, Claude should:
