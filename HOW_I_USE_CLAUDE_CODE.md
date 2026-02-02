@@ -233,7 +233,7 @@ When I correct Claude:
 ## Git Workflow
 
 ### Commits
-- **NEVER** add `Co-Authored-By` lines
+- **NEVER** add `Co-Authored-By` lines to commit messages. Write clear, concise commit messages without any co-author attribution.
 - Write clear, concise messages
 - Use imperative mood
 - Include context in the body if non-obvious
